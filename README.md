@@ -8,6 +8,8 @@ I build user-focused web applications with modern frontend technologies, reliabl
 
 Based in Ankara, Türkiye 🇹🇷
 
+International experience in Warsaw, Poland 🇵🇱
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_projects-2563EB?style=for-the-badge&logo=github)](https://github.com/furkanuzel/furkan-portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-furkanuzel-181717?style=for-the-badge&logo=github)](https://github.com/furkanuzel)
 
